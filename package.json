@@ -1,0 +1,9 @@
+{
+    "name": "com.baba_s.uni-tilemap-rectangle-tool-auto-selector",
+    "displayName": "UniTilemapRectangleToolAutoSelector",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "author": "baba_s",
+    "description": "",
+    "dependencies": {}
+}
