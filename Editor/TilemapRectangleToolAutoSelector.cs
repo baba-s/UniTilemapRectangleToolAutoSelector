@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine.Tilemaps;
 
-namespace KoganeUnityLib
+namespace UniTilemapRectangleToolAutoSelector
 {
 	internal static class GridPaintPaletteWindowUtils
 	{
